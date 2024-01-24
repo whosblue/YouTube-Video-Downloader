@@ -1,0 +1,27 @@
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YouTube Video Downloader 2.exe
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YouTube Video Downloader 2.deps.json
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YouTube Video Downloader 2.runtimeconfig.json
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YouTube Video Downloader 2.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YouTube Video Downloader 2.pdb
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.csproj.AssemblyReference.cache
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\MainWindow.g.cs
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\App.g.cs
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2_MarkupCompile.cache
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2_MarkupCompile.lref
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\MainWindow.baml
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.g.resources
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.AssemblyInfoInputs.cache
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.AssemblyInfo.cs
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\refint\YouTube Video Downloader 2.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.pdb
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.genruntimeconfig.cache
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\ref\YouTube Video Downloader 2.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2_Content.g.cs
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\AngleSharp.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\NReco.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\NReco.VideoConverter.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\bin\Release\net8.0-windows\YoutubeExplode.dll
+C:\Users\lacyr\Downloads\Programming\VS\C#\YouTube Video Downloader 2\YouTube Video Downloader 2\obj\Release\net8.0-windows\YouTube Video Downloader 2.csproj.CopyComplete

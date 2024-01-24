@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>YouTube_Video_Downloader_2</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>YTD Logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="YTD Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="YTD Logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NReco" Version="2.0.3" />
+    <PackageReference Include="NReco.VideoConverter" Version="1.2.1" />
+    <PackageReference Include="YoutubeExplode" Version="6.3.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="YTD Logo.png" />
+  </ItemGroup>
+
+</Project>
