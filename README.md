@@ -1,6 +1,5 @@
 # YouTube-Video-Downloader
-Uses the YouTubeExplode API and WPF to download videos from YouTube. <br>
-Honestly I'd say the UI is horrible, but that's why it's open source!
+Utilizes the YouTubeExplode API to download YouTube videos. Can also download .mp3s. Uses WPF XAML.
 
 # Features
-Features 1 unique thing, that being that it can serve the user .mp3 files from YouTube!
+- Can download both .mp4 videos and also audio files (mp3)! Useful for music.
